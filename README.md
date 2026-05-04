@@ -101,7 +101,7 @@ The goal is to identify customers likely to churn and provide actionable insight
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/ankitsingh12world/Customer-Churn-Analysis-Power-BI-Python/blob/eb174ad970c27dd85c0cd58e5c243dc123a21657/dashbord.png)
 
 ---
 
